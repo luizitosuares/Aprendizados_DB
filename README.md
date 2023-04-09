@@ -5,4 +5,4 @@ Banco de dados relacional criado com intuito de guardar todos os aprendizados qu
 ## Tecnologias aplicadas:
 
 - Banco de dados relacional
--SQLite
+- SQLite
